@@ -1,0 +1,15 @@
+.box1{
+    display: flex;
+    flex-wrap: wrap;
+}
+.box2{
+    display: flex;
+    flex-wrap: wrap;
+}
+body{
+    background-color: lightpink;
+}
+.box3{
+    display: flex;
+    flex-wrap: wrap;
+}
