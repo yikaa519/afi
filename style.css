@@ -1,15 +1,46 @@
+html{
+    scroll-behavior: smooth;
+}
 .box1{
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
 }
 .box2{
     display: flex;
     flex-wrap: wrap;
-}
-body{
-    background-color: lightpink;
+    justify-content: center;
+    margin: 20px;
 }
 .box3{
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
+}
+body{
+    background-color: lightpink;
+}
+nav ul{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+
+}
+h2{
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 30px;
+}
+h3{
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 30px;
+}
+h4{
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 30px;
 }
